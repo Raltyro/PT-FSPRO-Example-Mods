@@ -301,10 +301,10 @@ BTW The loop on It's Pizza Time! actually starts on beats
 	</object>
 	<object class="LoopRegion" id="{d98adce1-b134-421b-94e0-0b2135ffa98e}">
 		<property name="position">
-			<value>101.24626187388465</value>
+			<value>69.246261873884649</value>
 		</property>
 		<property name="length">
-			<value>69.333333333333329</value>
+			<value>101.33333333333334</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{b6a22285-624e-4ca7-b54a-e1fc1e253114}</destination>
@@ -704,7 +704,7 @@ BTW The loop on It's Pizza Time! actually starts on beats
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>0.25471893</value>
+			<value>-0.285481483</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{c1ef5760-6841-4efe-b0e3-40c7a6e449e8}">
