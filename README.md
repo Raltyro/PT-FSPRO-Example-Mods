@@ -1,6 +1,6 @@
-# Pizza Tower FMOD Studio Project Recreation Example Mod
+# RichaadEB's Pizza Tower Metal Cover Music Mod FMOD Studio Project
 Based of [Ralty's Pizza Tower FMOD Studio Project Recreation](https://github.com/Raltyro/Pizza-Tower-fspro-Recreation)  
-This is a Exmaple Sound Mod | Link
+This is a Exmaple Sound Mod | https://gamebanana.com/sounds/68818
 
 [![PT FSPRO Repository Image](.github/readme/banner-fspro.png)](https://gamebanana.com/tools/13432)
 
